@@ -1,0 +1,58 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rtifacts/
+bin/
+obj/
+
+# VS Code directories
+.vscode/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.pdb
+*.cache
+*.ilk
+*.meta
+*.tmp
+*.obj
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Web Apps configuration
+.azure/
+
+# Rider project files
+.idea/
+
+# Web Projects
+node_modules/
+dist/
+bower_components/
+
+# Visual Studio directories
+.vs/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# IIS Logs
+logs/
